@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\keyword_search\keyword_search\bin\Debug\keyword_search.exe.config
+c:\users\user\documents\visual studio 2012\Projects\keyword_search\keyword_search\bin\Debug\keyword_search.exe
+c:\users\user\documents\visual studio 2012\Projects\keyword_search\keyword_search\bin\Debug\keyword_search.pdb
+c:\users\user\documents\visual studio 2012\Projects\keyword_search\keyword_search\obj\Debug\keyword_search.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\keyword_search\keyword_search\obj\Debug\keyword_search.exe
+c:\users\user\documents\visual studio 2012\Projects\keyword_search\keyword_search\obj\Debug\keyword_search.pdb
